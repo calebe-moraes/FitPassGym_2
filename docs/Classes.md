@@ -33,3 +33,6 @@
 ### 🏃 Operacional e Aulas
 - **Aula** (RF06, RF07, RF09): `idAula, nome, horario, capacidadeMaxima`
 - **Agendamento** (RF06, RF10): `idAgendamento, dataReserva, status
+
+
+
